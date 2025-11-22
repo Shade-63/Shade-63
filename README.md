@@ -39,8 +39,7 @@
 ### 📫 Let’s Connect
 - 📄 [Portfolio (Coming Soon)]
 - 💼 [LinkedIn](www.linkedin.com/in/dharmit-chauhan-a7b392321)
-- 🌍 Anonymous Identity → In Progress 👀
 
 ---
 
-> “Make every moment worth your 7 last minutes.”  
+> “Make every moment worth your 7 minutes.”  

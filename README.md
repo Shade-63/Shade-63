@@ -1,45 +1,56 @@
-# 👋 Hey, I'm Dharmit
+# Dharmit Chauhan
 
-🎓 Engineering student | 💻 ML Enthusiast | 🧠 Forever Learning  | 📸 Capturing The Moments
-🚀 Turning code into projects that speak louder than certificates.  
-
----
-
-### 💡 About Me
-- 🛠 Currently building practical, real-world apps with **Python, Flask, and TensorFlow**.
-- 🎯 Focused on **machine learning**, especially its creative and impactful applications.
-- 🌱 Constantly learning and improving — one project at a time.
-- 📸 Exploring photography, photo editing and experimenting with the life.
+**Building ML-powered security and safety tools.**  
+Second-year CS undergrad at BMSIT&M, Bengaluru. I ship things; then I make them better.
 
 ---
 
-### ⚒️ Tech Stack & Tools
-- **Languages:** Python, HTML/CSS, C
-- **Frameworks:** Flask, TensorFlow, Scikit-Learn
-- **Tools:** Git, GitHub, Google Colab, Render, Cloudinary
-- **Interests:** ML apps, creative web apps, sustainable platforms, anything which seems fun and make a difference. 👀🐱‍🏍
+### What I'm working on
+
+**[Sentinel-AI](https://github.com/Shade-63/Sentinel-AI) · [live demo](https://huggingface.co/spaces/Shade63/SentinelAI)**  
+A scam and phishing classifier that goes beyond binary spam detection — it tells you *what kind* of attack you're looking at. DistilBERT fine-tuned on a 14,000-row multi-class dataset covering financial fraud, romance scams, government impersonation, bank phishing, and more.  
+`99.75% accuracy · 99.73% macro F1 · live on Hugging Face`
+
+**Transformer-based WAF** *(group project, ML pipeline owned by me)*  
+A reverse-proxy Web Application Firewall that replaces regex rulesets with a transformer classifier. Custom normalizer handles unicode/URL/HTML encoding attacks before tokenization. Sliding window scanner closes the padding-bypass gap that ModSecurity and Cloudflare's free tier leave open.  
+`99.79% accuracy · 0 false positives on 15,791 HTTP requests`
+
+**[EchoCraft](https://github.com/Shade-63/EchoCraft)**  
+A mindful social platform built with Flask and Cloudinary — designed around psychology-informed interactions rather than engagement-maximizing defaults.
 
 ---
 
-### 🚧 Projects Worth Checking
-- ✅ [To-Do List Web App](https://github.com/Shade-63/Updated_todo)
-- 🏡 [House Price Prediction App (Coming Soon)](https://github.com/Shade-63/House-Price-ML-model)
-- 🎨 [EchoCraft – Hobby Platform](https://github.com/Shade-63/EchoCraft)
+### Stack
+
+```
+Languages     Python · Java · SQL · C 
+ML/NLP        HuggingFace Transformers · DistilBERT · MuRIL · ONNX · scikit-learn
+Infra         Docker · Flask · SQLite · FastAPI · Render · Kaggle
+Tools         Git · HuggingFace · Tesseract OCR · Google Safe Browsing API
+```
 
 ---
 
-### 🎯 Goals for 2025
-- Build impactful ML + Flask apps.
-- Learn and implement **LSTM + NLP + External APIs** in stock/news prediction projects.
-- Experiment with **FastAPI** and sustainable digital ideas.
-- Grow both as an **ML engineer** and a **meaningful social personality**😃
+### How I work
+
+I care about the full pipeline — not just model accuracy, but what the model is actually being asked to do and whether the evaluation is honest. Multi-class F1 on imbalanced data is easy to fake with the wrong averaging. I don't.
+
+Most of my interesting problems live at the intersection of ML and adversarial inputs: inputs designed to break classifiers, bypass filters, or evade detection. That's where the work gets real.
 
 ---
 
-### 📫 Let’s Connect
-- 📄 [Portfolio (Coming Soon)]
-- 💼 [LinkedIn](www.linkedin.com/in/dharmit-chauhan-a7b392321)
+### Background noise
+
+- 🏆 CODE RED National Hackathon — Finalist  
+- ⭐ Python 5-star Gold, HackerRank  
+- 5× Kaggle ML certificates
 
 ---
 
-> “Make every moment worth your 7 minutes.”  
+### Find me
+
+[Hugging Face](https://huggingface.co/Shade63) · [LinkedIn](https://www.linkedin.com/in/dharmit-chauhan/) · [Email](mailto:dharmitchauhan6336@gmail.com)
+
+---
+
+<sub>Last updated: Jun 2026</sub>

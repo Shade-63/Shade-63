@@ -41,6 +41,7 @@ Most of my interesting problems live at the intersection of ML and adversarial i
 
 ### Background noise
 
+- Prize winner at Anveshna 3.0 National Ideathon
 - 🏆 CODE RED National Hackathon — Finalist  
 - ⭐ Python 5-star Gold, HackerRank  
 - 5× Kaggle ML certificates
